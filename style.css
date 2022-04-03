@@ -279,7 +279,7 @@ footer {
   }
 
   .sidebar {
-    width: 100px;
+    width: 100%;
     padding-left: 3%;
     padding-right: 3%;
   }
@@ -295,6 +295,10 @@ footer {
 
   .pagination {
     margin-bottom: 50px;
+  }
+
+  .category {
+    display: none;
   }
 }
 
